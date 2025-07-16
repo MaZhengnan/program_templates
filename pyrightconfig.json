@@ -1,0 +1,8 @@
+{
+  "typeCheckingMode": "basic",
+  "venvPath": "C:/%USERPROFILE%/scoop/apps/miniconda3/envs",
+  "venv": "vibration",
+  "pythonVersion": "3.12",
+  "reportMissingImports": true,
+  "reportMissingModuleSource": false
+}
