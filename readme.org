@@ -1,0 +1,7 @@
+#+TITLE: Programming Templates
+#+AUTHOR: Zhengnan Ma(MZN)
+
+* ReadMe
+- This is a programming templates for =C/C++= and =Python=;
+- Clone this repository and select the branch corresponding to the development language;
+- Delete the =.git= folder.
